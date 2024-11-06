@@ -1,0 +1,14 @@
+.section-text {
+    display: grid;
+    border: 1px solid rgb(243, 235, 235);
+    padding: 10px  0px;
+    margin-right: 600px;
+    font-size: small;
+    justify-content: center;
+}
+.section-img {
+    /* max-width: 1200px; */
+    display: grid;
+    grid-column-gap: 10px;
+    align-items: self-start;
+}
